@@ -86,3 +86,6 @@ I welcome your suggestions and feel free to send me email or ask questions.
 I will update this game based on your feedback.
 
 Please follow me!
+
+## License
+Licensed under the [MIT License](LICENSE.txt)
