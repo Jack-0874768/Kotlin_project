@@ -84,6 +84,8 @@ I will update this game based on your feedback.
 
 Please follow me!
 
+Thanks for watching!
+
 ## License & Copyright
 Image from https://www.iconfont.cn/
 
