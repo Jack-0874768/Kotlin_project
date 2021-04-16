@@ -1,11 +1,11 @@
-# Greedy Snake
+# 🐍 Greedy Snake
 ![GreedySnake](https://user-images.githubusercontent.com/80426124/114316505-e1ad3780-9ad1-11eb-9189-29fc797b774b.png)
 
-A puzzle game
+A puzzle game:video_game:
 
 
 ## Project Background
-In today's society, people in every field face different pressures. I hope I can use this game to help them decompress.
+In today's society, people in every field face different pressures:briefcase:. I hope I can use this game to help them decompress.:dancers:
 
 ## Project Description
 This project is a classic snake-eating casual game project. It is mainly used for recreation, relaxation of the brain and activation of nerves. The operation of this project is simple, the interface is simple, and users can freely set to turn on or off the music, which is suitable for people's leisure and entertainment.
@@ -88,5 +88,6 @@ Thanks for watching!
 
 ## License & Copyright
 Image from https://www.iconfont.cn/
+           https://www.webfx.com/tools/emoji-cheat-sheet/
 
 Licensed under the [MIT License](LICENSE.txt)
