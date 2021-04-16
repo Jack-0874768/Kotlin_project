@@ -58,9 +58,6 @@ If the snakes🐍 touches its body, the game is over, you can choose to restart 
 * Style.xml
 * AndroidManifest.xml
 
-## Copyright information
-Image from https://www.iconfont.cn/
-
 ## Clear install instructions
 Enter the main interface of the phone or emulator, find the game icon and long press the icon to choose whether to uninstall. After the uninstallation is complete, the installation can be cleared.
 
@@ -87,5 +84,7 @@ I will update this game based on your feedback.
 
 Please follow me!
 
-## License
+## License & Copyright
+Image from https://www.iconfont.cn/
+
 Licensed under the [MIT License](LICENSE.txt)
