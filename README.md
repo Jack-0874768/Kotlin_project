@@ -8,7 +8,7 @@ A puzzle game:video_game:
 In today's society, people in every field face different pressures:briefcase:. I hope I can use this game to help them decompress.:dancers:
 
 ## Project Description
-This project is a classic snake-eating casual game project. It is mainly used for recreation, relaxation of the brain and activation of nerves. The operation of this project is simple, the interface is simple, and users can freely set to turn on or off the music, which is suitable for people's leisure and entertainment.
+This project is a classic snake-eating casual game project:video_game:. It is mainly used for recreation, relaxation of the brain and activation of nerves:city_sunrise:. The operation of this project is simple, the interface is simple, and users can freely set to turn on or off the music:musical_score:, which is suitable for people's leisure and entertainment:dizzy:.
 
 ## Configuration Instruction
 Windows 10 operating system, Android emulator, android studio development tools.
@@ -17,16 +17,16 @@ Windows 10 operating system, Android emulator, android studio development tools.
 Copy the compiled apk file to Android phone or Android emulator, click install.
 
 ## Feature's List
-Including functions: turn on or off the music, start the game, continue the game.
+Including functions: turn on or off the music:notes:, start the game, continue the game.
 
 ## Operating Instruction
 To start the app, there are two buttons on the home page, namely the turn on/off music button and the start game button. 
 
-* Turn on/off music button: Control the playing and turning off of background music.
+* Turn on/off music button:musical_note:: Control the playing and turning off of background music.
 
 * Start game button: enter the game interface.
 
-### please see the example below 
+### please see the example below 👇
 #### This is the interface after opening
 ![example1](https://user-images.githubusercontent.com/80426124/114318030-02c55680-9ad9-11eb-86f6-b702860f76c8.png)
 
