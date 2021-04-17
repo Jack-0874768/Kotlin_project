@@ -4,43 +4,43 @@
 A puzzle game:video_game:
 
 
-## Project Background
+## :page_facing_up:Project Background
 In today's society, people in every field face different pressures:briefcase:. I hope I can use this game to help them decompress.:dancers:
 
-## Project Description
+## :file_folder:Project Description
 This project is a classic snake-eating casual game project:video_game:. It is mainly used for recreation, relaxation of the brain and activation of nerves:city_sunrise:. The operation of this project is simple, the interface is simple, and users can freely set to turn on or off the music:musical_score:, which is suitable for people's leisure and entertainment:dizzy:.
 
-## Configuration Instruction
-Windows 10 operating system, Android emulator, android studio development tools.
+## :book:Configuration Instruction
+:space_invader:Windows 10 operating system, Android emulator, android studio development tools.
 
-## Installation Instructions
-Copy the compiled apk file to Android phone or Android emulator, click install.
+## :pencil:Installation Instructions
+📱Copy the compiled apk file to Android phone or Android emulator, click install.
 
-## Feature's List
-Including functions: turn on or off the music:notes:, start the game, continue the game.
+## :pushpin:Feature's List
+Including functions: turn on or off the music:notes:, start the game, continue the game:game_die:.
 
-## Operating Instruction
+## :paperclip:Operating Instruction
 To start the app, there are two buttons on the home page, namely the turn on/off music button and the start game button. 
 
-* Turn on/off music button:musical_note:: Control the playing and turning off of background music.
+* :musical_keyboard:Turn on/off music button:musical_note:: Control the playing and turning off of background music.
 
-* Start game button: enter the game interface.
+* :black_joker:Start game button: enter the game interface.
 
 ### please see the example below 👇
-#### This is the interface after opening
+#### :dart:This is the interface after opening
 ![example1](https://user-images.githubusercontent.com/80426124/114318030-02c55680-9ad9-11eb-86f6-b702860f76c8.png)
 
-#### After clicking the button to start the game
+#### :clapper:After clicking the button to start the game👇
 ![example2](https://user-images.githubusercontent.com/80426124/114318084-4e780000-9ad9-11eb-9ff6-eea2da5e6e4d.png)
 
-Swipe to control the direction of the snake 🐍
+Swipe to control the direction of the snake 🐍.
 
-#### Game over
+#### :video_game:Game over👇
 ![example3](https://user-images.githubusercontent.com/80426124/114318130-96972280-9ad9-11eb-8a9f-8c98a3950422.png)
 
-If the snakes🐍 touches its body, the game is over, you can choose to restart or exit
+If the snakes🐍 touches its body, the game is over, you can choose to restart or exit.
 
-## A manifest (list of files)
+## :pencil2:A manifest (list of files)
 * HomeActivity.kt
 * MainActivity.kt
 * Eating.kt
@@ -58,26 +58,26 @@ If the snakes🐍 touches its body, the game is over, you can choose to restart 
 * Style.xml
 * AndroidManifest.xml
 
-## Clear install instructions
+## :mailbox_with_no_mail:Clear install instructions
 Enter the main interface of the phone or emulator, find the game icon and long press the icon to choose whether to uninstall. After the uninstallation is complete, the installation can be cleared.
 
-## Bug list
+## :ghost:Bug list
 ![Buglist](https://user-images.githubusercontent.com/80426124/115061269-f5ccac80-9eb6-11eb-9789-0e9c4279a3dd.jpg)
 
-Turn off the music and turn it on again, it will report an error.
+:musical_note:Turn off the music and turn it on again, it will report an error.
 
-## Troublrshootingf tips
+## :mag:Troublrshootingf tips
 ![Solved](https://user-images.githubusercontent.com/80426124/115061415-2876a500-9eb7-11eb-9b14-1bd5d2c35327.jpg)
 
-## Contact information
+## :key:Contact information
 📍Canada, ON
 
 📫 z13715234775@yahoo.com
 
-## Credits and acknowledgement
+## :book:Credits and acknowledgement
 GreedySnake is created and maintained by Jack
 
-## Contributing
+## :high_brightness:Contributing
 I welcome your suggestions and feel free to send me email or ask questions.
 
 I will update this game based on your feedback.
@@ -86,7 +86,7 @@ Please follow me!
 
 Thanks for watching!
 
-## License & Copyright
+## :bulb:License & Copyright
 Image from https://www.iconfont.cn/
            https://www.webfx.com/tools/emoji-cheat-sheet/
 
