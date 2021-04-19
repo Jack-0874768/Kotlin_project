@@ -77,17 +77,20 @@ Enter the main interface of the phone or emulator, find the game icon and long p
 ## :book:Credits and acknowledgement
 GreedySnake is created and maintained by Jack
 
+:sparkles:I would like to thank my Instructor Dr.T. He used a funny way to let me learn Android programs:smile:. I have to say that your teaching method is very attractive:eyes:.
+
 ## :high_brightness:Contributing
-I welcome your suggestions and feel free to send me email or ask questions.
+I welcome your suggestions and feel free to send me email or ask questions.:email:
 
-I will update this game based on your feedback.
+I will update this game based on your feedback.:calling:
 
-Please follow me!
+Please follow me!:crown:
 
-Thanks for watching!
+Thanks for watching!:coffee:
 
 ## :bulb:License & Copyright
 Image from https://www.iconfont.cn/
            https://www.webfx.com/tools/emoji-cheat-sheet/
 
 Licensed under the [MIT License](LICENSE.txt)
+
