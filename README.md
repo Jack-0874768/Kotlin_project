@@ -28,7 +28,7 @@ To start the app, there are two buttons on the home page, namely the turn on/off
 
 ### please see the example below 👇
 #### :dart:This is the interface after opening
-![example1](https://user-images.githubusercontent.com/80426124/114318030-02c55680-9ad9-11eb-86f6-b702860f76c8.png)
+![example1](https://user-images.githubusercontent.com/80426124/115417970-15b9e400-a1c7-11eb-953a-0cc73c4f47aa.png)
 
 #### :clapper:After clicking the button to start the game👇
 ![example2](https://user-images.githubusercontent.com/80426124/114318084-4e780000-9ad9-11eb-9ff6-eea2da5e6e4d.png)
