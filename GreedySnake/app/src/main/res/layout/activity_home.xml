@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/a9"
+    android:orientation="vertical"
+    tools:context="com.example.GreedySnake.MainActivity">
+
+<Button
+    android:id="@+id/btn_music"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="200dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_gravity="center"
+    android:text="Open Music🎵"
+    android:textColor="@color/white"
+    android:background="@color/colorPrimary"/>
+
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+        android:text="Start Game😊"
+        android:textColor="@color/white"
+        android:background="@color/colorPrimary"/>
+
+
+</LinearLayout>
