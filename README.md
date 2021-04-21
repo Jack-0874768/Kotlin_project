@@ -1,5 +1,4 @@
 # 🐍 Greedy Snake
-![GreedySnake](https://user-images.githubusercontent.com/80426124/114316505-e1ad3780-9ad1-11eb-9189-29fc797b774b.png)
 
 A puzzle game:video_game:
 
@@ -27,8 +26,15 @@ To start the app, there are two buttons on the home page, namely the turn on/off
 * :black_joker:Start game button: enter the game interface.
 
 ### please see the example below 👇
+
 #### :dart:This is the interface after opening
-![example1](https://user-images.githubusercontent.com/80426124/115417970-15b9e400-a1c7-11eb-953a-0cc73c4f47aa.png)
+![GreedySnake_Interface](https://user-images.githubusercontent.com/80426124/115590263-c0e99c80-a29e-11eb-8ded-68457412c53b.jpg)
+
+#### :sound:When the user presses the button to open the music 👇
+![open_music](https://user-images.githubusercontent.com/80426124/115590507-0a39ec00-a29f-11eb-8f2c-9601874fd2e6.jpg)
+
+#### :mute:When the user presses the button to close the music👇
+![Close_music](https://user-images.githubusercontent.com/80426124/115590716-49683d00-a29f-11eb-8153-81084bd84c13.jpg)
 
 #### :clapper:After clicking the button to start the game👇
 ![example2](https://user-images.githubusercontent.com/80426124/114318084-4e780000-9ad9-11eb-9ff6-eea2da5e6e4d.png)
