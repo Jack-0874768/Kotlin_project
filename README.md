@@ -1,4 +1,5 @@
 # 🐍 Greedy Snake
+![icon](https://user-images.githubusercontent.com/80426124/115591425-14a8b580-a2a0-11eb-8dda-fee1755f4ee9.jpg) 
 
 A puzzle game:video_game:
 
