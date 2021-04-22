@@ -60,6 +60,7 @@ If the snakes🐍 touches its body, the game is over, you can choose to restart 
 * Shi3.png
 * Shi4.png
 * Snake.png
+* ic_snake-playstore.png
 * Colors.xml
 * Strings.xml
 * Style.xml
@@ -93,11 +94,11 @@ I will update this game based on your feedback.:calling:
 
 Please follow me!:crown:
 
-Thanks for watching!:coffee:
+Thanks for playing!:coffee:
 
 ## :bulb:License & Copyright
 Image from https://www.iconfont.cn/
-           https://www.webfx.com/tools/emoji-cheat-sheet/
+         & https://www.webfx.com/tools/emoji-cheat-sheet/
 
 Licensed under the [MIT License](LICENSE.txt)
 
