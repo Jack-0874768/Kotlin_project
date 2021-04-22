@@ -62,6 +62,7 @@ If the snakes🐍 touches its body, the game is over, you can choose to restart 
 * Snake.png
 * ic_snake-playstore.png
 * Colors.xml
+* ic_snake_background.xml
 * Strings.xml
 * Style.xml
 * AndroidManifest.xml
