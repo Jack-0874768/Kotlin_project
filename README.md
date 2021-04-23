@@ -98,8 +98,10 @@ Please follow me!:crown:
 Thanks for playing!:coffee:
 
 ## :bulb:License & Copyright
-Image from https://www.iconfont.cn/
-         & https://www.webfx.com/tools/emoji-cheat-sheet/
+### :page_with_curl:Work cited
+* 阿里巴巴矢量图标库. iconfont. (n.d.). https://www.iconfont.cn/. 
+* Emoji cheat sheet for GitHub, Basecamp and other services. 🎁 Emoji cheat sheet for GitHub, Basecamp, Slack &amp; more. (n.d.). https://www.webfx.com/tools/emoji-cheat-sheet/. 
+* 绿色贪吃蛇吃苹果PNG图免抠素材免费下载_觅元素51yuansu.com. 觅元素. (n.d.). http://www.51yuansu.com/sc/vjrkmyynsb.html.
 
 Licensed under the [MIT License](LICENSE.txt)
 
