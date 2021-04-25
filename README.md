@@ -3,7 +3,6 @@
 
 A puzzle game:video_game:
 
-
 ## :page_facing_up:Project Background
 In today's society, people in every field face different pressures:briefcase:. I hope I can use this game to help them decompress.:dancers:
 
@@ -65,7 +64,11 @@ If the snakes🐍 touches its body, the game is over, you can choose to restart 
 * ic_snake_background.xml
 * Strings.xml
 * Style.xml
+* Strings.xml
 * AndroidManifest.xml
+
+## :page_facing_up:Language suport 
+Support English and French:eyes:
 
 ## :mailbox_with_no_mail:Clear install instructions
 Enter the main interface of the phone or emulator, find the game icon and long press the icon to choose whether to uninstall. After the uninstallation is complete, the installation can be cleared.
