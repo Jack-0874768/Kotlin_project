@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">GourmandSerpent</string>
+
+    <string name="btn_Open_Music">Musique ouverte🎵</string>
+
+    <string name="btn_Start_Game">Démarrer jeu😊</string>
+
+    <string name="G_O">JEU TERMINÉ</string>
+
+    <string name="Y_s_i">Votre taille est</string>
+
+    <string name="d_y_W"> !  voulez-vous recommencer?</string>
+
+    <string name="yes">Oui</string>
+
+    <string name="exit">sortir</string>
+
+    <string name="Again">recommencer le jeu</string>
+
+    <string name="C_M">Fermer la musique❎</string>
+
+    <string name="T_O">La musique est maintenant allumée (￣︶￣)↗[GO!]</string>
+
+    <string name="O_M">Musique ouverte🎵</string>
+
+    <string name="T_C">La musique est maintenant arrêtée (～￣▽￣)～</string>
+
+    <string name="P_F"> init a échoué (*^▽^*)</string>
+
+    <string name="R_C_E">re-cliquez sur quitter(^_^)</string>
+</resources>

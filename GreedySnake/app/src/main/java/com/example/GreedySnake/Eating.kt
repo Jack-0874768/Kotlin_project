@@ -138,10 +138,10 @@ class Eating//init
         val builder = AlertDialog.Builder(this.context)
 
     //Generate a dialog box to let the user choose to exit the game or start another round
-        builder.setTitle("GAME OVER")
-        builder.setMessage("your size is  " + mSnakeArray.size + " !  do you want start again?")
-        builder.setNegativeButton("yes") { dialog, which -> GameAgain() }
-        builder.setPositiveButton("exit") { dialog, which -> System.exit(0) }
+        builder.setTitle(resources.getString(R.string.G_O))
+        builder.setMessage(resources.getString(R.string.Y_s_i) + mSnakeArray.size + resources.getString(R.string.d_y_W))
+        builder.setNegativeButton(resources.getString(R.string.yes)) { dialog, which -> GameAgain() }
+        builder.setPositiveButton(resources.getString(R.string.exit)) { dialog, which -> System.exit(0) }
         val modalDialog = builder.create()
         modalDialog.show()
     }
@@ -276,7 +276,7 @@ class Eating//init
         SnakeHead = Bitmap.createScaledBitmap(SnakeHead!!, panLineWidth.toInt(), panLineHeight.toInt(), false)
         handler.sendEmptyMessageDelayed(1, time.toLong())
         invalidate()
-        Toast.makeText(context, "start game again", Toast.LENGTH_SHORT).show()
+        Toast.makeText(context, resources.getString(R.string.Again), Toast.LENGTH_SHORT).show()
     }
 
 

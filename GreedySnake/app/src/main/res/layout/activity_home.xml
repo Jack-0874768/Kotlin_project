@@ -16,7 +16,7 @@
     android:layout_marginLeft="20dp"
     android:layout_marginRight="20dp"
     android:layout_gravity="center"
-    android:text="Open Music🎵"
+    android:text="@string/btn_Open_Music"
     android:textColor="@color/white"
     android:background="@color/colorPrimary"/>
 
@@ -29,7 +29,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_gravity="center"
-        android:text="Start Game😊"
+        android:text="@string/btn_Start_Game"
         android:textColor="@color/white"
         android:background="@color/colorPrimary"/>
 

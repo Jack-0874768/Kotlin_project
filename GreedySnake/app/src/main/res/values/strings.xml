@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">GreedySnake</string>
+
+    <string name="btn_Open_Music">Open Music🎵</string>
+
+    <string name="btn_Start_Game">Start Game😊</string>
+
+    <string name="G_O">GAME OVER</string>
+
+    <string name="Y_s_i">Your size is</string>
+
+    <string name="d_y_W"> !  do you want to start again?</string>
+
+    <string name="yes">yes</string>
+
+    <string name="exit">exit</string>
+
+    <string name="Again">start game again</string>
+
+    <string name="C_M">Close Music❎</string>
+
+    <string name="T_O">The music is now on (￣︶￣)↗[GO!]</string>
+
+    <string name="O_M">Open Music🎵</string>
+
+    <string name="T_C">The music is now stopped (～￣▽￣)～</string>
+
+    <string name="P_F">Player init failed! (*^▽^*)</string>
+
+    <string name="R_C_E">re-click to exit app (^_^)</string>
+
+
 </resources>

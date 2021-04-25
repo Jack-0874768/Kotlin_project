@@ -36,13 +36,13 @@ class HomeActivity : AppCompatActivity() {
         btnMusic = findViewById(R.id.btn_music)
         btnMusic.setOnClickListener {
             if (!isMusicOpen) {
-                btnMusic.text = "Close Music❎"
+                btnMusic.text = resources.getString(R.string.C_M)
                 playMusic(true)
-                Toast.makeText(this, "The music is now on <(￣︶￣)↗[GO!]", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, resources.getString(R.string.T_O), Toast.LENGTH_SHORT).show()
             } else {
-                btnMusic.text = "Open Music🎵"
+                btnMusic.text =resources.getString(R.string.O_M)
                 playMusic(false)
-                Toast.makeText(this, "The music is now stopped (～￣▽￣)～", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, resources.getString(R.string.T_C), Toast.LENGTH_SHORT).show()
             }
             isMusicOpen = !isMusicOpen
         }
@@ -64,7 +64,7 @@ class HomeActivity : AppCompatActivity() {
                 try{
                     mediaPlayer1!!.prepare()
                 }catch (e: IOException) {
-                    println("player init failed! (*^▽^*)")
+                    println(resources.getString(R.string.P_F))
                 }
                 
             }
@@ -77,7 +77,7 @@ class HomeActivity : AppCompatActivity() {
                //Press once to exit send a reminder.
                    // You can quit the app by pressing quit twice within two seconds
             if (System.currentTimeMillis() - exitTime > 2000) {
-                Toast.makeText(applicationContext, "re-click to exit app (^_^)", Toast.LENGTH_SHORT).show()
+                Toast.makeText(applicationContext, resources.getString(R.string.R_C_E), Toast.LENGTH_SHORT).show()
                 exitTime = System.currentTimeMillis()
             } else {
                 finish()
